@@ -98,4 +98,9 @@ ETHEREUM_ADDRESS="YOUR PUBLIC !!! NOT PRIVATE !!! ETHEREUM ADDRESS STARTING WITH
 ```shell
 cd program # if not already in program folder
 python3 main.py
+
+for reinit
+
+git reset --hard HEAD
+git pull origin --rebase
 ```

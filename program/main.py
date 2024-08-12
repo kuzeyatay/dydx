@@ -13,7 +13,7 @@ from func_messaging import send_message
 async def main():
 
   # Message on start
-  send_message("Bot launch successful")
+  send_message("Bot launch mmmmmsuccessful")
 
   # Connect to client
   try:
